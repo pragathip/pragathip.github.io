@@ -52,6 +52,8 @@ fostering collective growth. I initiated the [HRI Pioneers Mentoring Program.](h
           imageHeight: 200
           imageTitle: Pragathi Praveena
     socialIcons:
+        - name: CV
+          url: /praveena-cv.pdf
         - name: Google Scholar
           url: https://scholar.google.com/citations?hl=en&user=1VSKpsIAAAAJ&view_op=list_works&sortby=pubdate
         - name: Email
