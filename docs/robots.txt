@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://pragathip.github.io/sitemap.xml
