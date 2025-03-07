@@ -2,18 +2,8 @@
 layout: homepage
 ---
 
-## About Me
+👋🏼 I am interested in **human-robot interaction** and **collaborative systems**. I am a Postdoctoral Fellow at the [Robotics Institute, Carnegie Mellon University](https://www.ri.cmu.edu/) where I contribute to the [NSF AI-CARING Institute.](https://www.ai-caring.org/) I have a Ph.D. in [Computer Science](https://www.cs.wisc.edu/) from the [University of Wisconsin-Madison,](https://www.wisc.edu/) where I was part of the [People and Robots Lab.](https://peopleandrobots.wisc.edu/)
 
-I am a Ph.D. student at ...
+My research explores the intersection of HRI and CSCW, with a focus on developing novel interactive systems that facilitate human-to-human communication and collaboration. My dissertation work was on [**Robotic Groupware**.](https://www.proquest.com/dissertations-theses/towards-effective-robotic-groupware/docview/2937238328/se-2) My favorite paper from my Ph.D. journey is on the [*Periscope* robotic camera system](https://dl.acm.org/doi/10.1145/3610199) (see [1-minute teaser](https://twitter.com/HRIPioneers/status/1626663545810354176?s=20)🎉), which facilitates remote collaboration on physical tasks between two people. My second favorite paper explored the use of [collaborative robot arms in cinematography.](https://dl.acm.org/doi/10.1145/3544549.3585715)
 
-## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
-
-## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+Prior to joining graduate school, I was a junior research scientist for two years at [Xerox Research Center India](https://www.news.conduent.com/news/Xerox-expands-healthcare-research-at-hospitals-with-remote-sensing) where I built algorithms for monitoring a person’s breathing using webcams [(see video).](https://youtu.be/a7BPu4mUKaY) I have a B.Tech. in Electrical Engineering from the [Indian Institute of Technology Madras.](https://www.iitm.ac.in/)
