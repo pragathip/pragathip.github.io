@@ -16,18 +16,18 @@ Prior to joining graduate school, I was a junior research scientist for two year
 
 **RECENT PUBLICATIONS**
 
-Dissertation | [Towards Effective Robotic Groupware](https://search.library.wisc.edu/digital/AWVGOAW65EJGSV8Y) 
+Dissertation \| [Towards Effective Robotic Groupware](https://search.library.wisc.edu/digital/AWVGOAW65EJGSV8Y) 
 
-CSCW | [Periscope: A Robotic Camera System to Support Remote Physical Collaboration](https://doi.org/10.1145/3610199)
+CSCW \| [Periscope: A Robotic Camera System to Support Remote Physical Collaboration](https://doi.org/10.1145/3610199)
 
-UIST | [NarraGuide: an LLM-based Narrative Mobile Robot for Remote Place Exploration](https://doi.org/10.48550/arXiv.2508.01235)
+UIST \| [NarraGuide: an LLM-based Narrative Mobile Robot for Remote Place Exploration](https://doi.org/10.48550/arXiv.2508.01235)
 
-DIS | [REX: Designing User-centered Repair and Explanations to Address Robot Failures](https://doi.org/10.1145/3643834.3661559)
+DIS \| [REX: Designing User-centered Repair and Explanations to Address Robot Failures](https://doi.org/10.1145/3643834.3661559)
 
-CHI LBR | [Exploring the Use of Collaborative Robots in Cinematography](https://doi.org/10.1145/3544549.3585715)
+CHI LBR \| [Exploring the Use of Collaborative Robots in Cinematography](https://doi.org/10.1145/3544549.3585715)
 
-ICRA | [RangedIK: An Optimization-Based Robot Motion Generation Method for Ranged-Goal Tasks.](https://doi.org/10.1109/ICRA48891.2023.10161311)
+ICRA \| [RangedIK: An Optimization-Based Robot Motion Generation Method for Ranged-Goal Tasks.](https://doi.org/10.1109/ICRA48891.2023.10161311)
 
-HRI | [Understanding Control Frames in Multi-Camera Robot Telemanipulation](https://doi.org/10.1109/HRI53351.2022.9889543)
+HRI \| [Understanding Control Frames in Multi-Camera Robot Telemanipulation](https://doi.org/10.1109/HRI53351.2022.9889543)
 
-HRI 🏅 | [Supporting Perception of Weight through Motion-induced Sensory Conflicts in Robot Teleoperation](https://doi.org/10.1145/3319502.3374841)
+HRI 🏅 \| [Supporting Perception of Weight through Motion-induced Sensory Conflicts in Robot Teleoperation](https://doi.org/10.1145/3319502.3374841)
