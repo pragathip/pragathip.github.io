@@ -14,6 +14,8 @@ My **teaching and mentoring** is guided by the belief that CS education should p
 
 Prior to joining graduate school, I was a junior research scientist for two years at [Xerox Research Center India](https://www.news.conduent.com/news/Xerox-expands-healthcare-research-at-hospitals-with-remote-sensing) where I built algorithms for monitoring a person’s breathing using webcams [(see video).](https://youtu.be/a7BPu4mUKaY) I have a B.Tech. in Electrical Engineering from the [Indian Institute of Technology Madras.](https://www.iitm.ac.in/)
 
+---
+
 **RECENT PUBLICATIONS**
 
 Dissertation \| [Towards Effective Robotic Groupware](https://search.library.wisc.edu/digital/AWVGOAW65EJGSV8Y) 
