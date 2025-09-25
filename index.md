@@ -6,7 +6,7 @@ layout: homepage
 
 ---
 
-I am a Postdoctoral Fellow at the [Robotics Institute, CMU](https://www.ri.cmu.edu/) where I contribute to the [NSF AI-CARING Institute](https://www.ai-caring.org/). I have a Ph.D. in Computer Science from [UW-Madison](https://www.cs.wisc.edu/), where I was part of the [People and Robots Lab](https://peopleandrobots.wisc.edu/). I have been recognized as an MIT EECS Rising Star, as well as an HRI Pioneer and RSS Pioneer.
+I am a Postdoctoral Fellow at the [Robotics Institute, CMU](https://www.ri.cmu.edu/) where I contribute to the [NSF AI-CARING Institute](https://www.ai-caring.org/). I have a PhD in Computer Science from [UW-Madison](https://www.cs.wisc.edu/), where I was part of the [People and Robots Lab](https://peopleandrobots.wisc.edu/). I have been recognized as an MIT EECS Rising Star, as well as an HRI Pioneer and RSS Pioneer.
 
 I design and build intelligent, interactive systems that **support collaboration in group settings**. My current focus is on small group settings, such as teams, families, and classrooms, where individuals often have different goals, abilities, or constraints. These differences make collaboration powerful, but they can also create miscommunication, inefficiency, and conflict. Using a human-centered approach, I develop robotic and AI systems that mediate these differences to improve collective outcomes, while respecting human diversity. 
 
@@ -32,7 +32,7 @@ HRI \| [Understanding Control Frames in Multi-Camera Robot Telemanipulation](htt
 
 HRI 🏅 \| [Supporting Perception of Weight through Motion-induced Sensory Conflicts in Robot Teleoperation](https://doi.org/10.1145/3319502.3374841)
 
-HRI \| [Characterization of Input Methods for Human-to-robot Demonstrations](https://doi.org/10.5555/3378680.3378750)
+HRI \| [Characterization of Input Methods for Human-to-robot Demonstrations](https://doi.org/10.1109/HRI.2019.8673310)
 
 ICRA \| [User-Guided Offline Synthesis of Robot Arm Motion from 6-DoF Paths](https://doi.org/10.1109/ICRA.2019.8793483)
 
