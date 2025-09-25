@@ -16,7 +16,7 @@ Prior to joining graduate school, I was a junior research scientist for two year
 
 ---
 
-**RECENT PUBLICATIONS**
+**SELECTED PUBLICATIONS**
 
 Dissertation \| [Towards Effective Robotic Groupware](https://search.library.wisc.edu/digital/AWVGOAW65EJGSV8Y) 
 
@@ -28,8 +28,12 @@ DIS \| [REX: Designing User-centered Repair and Explanations to Address Robot Fa
 
 UIST \| [NarraGuide: an LLM-based Narrative Mobile Robot for Remote Place Exploration](https://doi.org/10.48550/arXiv.2508.01235)
 
-ICRA \| [RangedIK: An Optimization-Based Robot Motion Generation Method for Ranged-Goal Tasks.](https://doi.org/10.1109/ICRA48891.2023.10161311)
-
 HRI \| [Understanding Control Frames in Multi-Camera Robot Telemanipulation](https://doi.org/10.1109/HRI53351.2022.9889543)
 
 HRI 🏅 \| [Supporting Perception of Weight through Motion-induced Sensory Conflicts in Robot Teleoperation](https://doi.org/10.1145/3319502.3374841)
+
+HRI \| [Characterization of Input Methods for Human-to-robot Demonstrations](https://doi.org/10.5555/3378680.3378750)
+
+ICRA \| [User-Guided Offline Synthesis of Robot Arm Motion from 6-DoF Paths](https://doi.org/10.1109/ICRA.2019.8793483)
+
+ICRA \| [RangedIK: An Optimization-Based Robot Motion Generation Method for Ranged-Goal Tasks](https://doi.org/10.1109/ICRA48891.2023.10161311)
