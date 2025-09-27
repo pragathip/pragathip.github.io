@@ -2,7 +2,7 @@
 layout: homepage
 ---
 
-<span style="color:red"> 🚀 I am on the job market for tenure-track faculty positions in CS (or related) starting in Fall 2026! </span> Please reach out if you know any suitable openings. Here is a [2-minute overview](https://youtu.be/8ADSsTXELPM) of my research vision.
+<span style="color:red"> 🚀 I am on the job market for tenure-track faculty positions in CS (or related) starting in Fall 2026! </span> Please reach out if you know any suitable openings. Here is a [2-minute overview](https://youtu.be/8ADSsTXELPM) of my research vision!
 
 ---
 
@@ -10,9 +10,9 @@ I am a Postdoctoral Fellow at the [Robotics Institute, CMU](https://www.ri.cmu.e
 
 My <u>research</u> focuses on designing intelligent, interactive systems that **_enhance collaboration in group settings_**. In teams, families, and classrooms, individuals bring different goals, abilities, and constraints to their shared endeavors. These differences can fuel collaboration but may also create miscommunication, inefficiency, and conflict. Through human-centered design, I develop robotic and AI systems that mediate these differences to improve collective outcomes while respecting human diversity.
 
-My <u>teaching and mentoring</u> is guided by the belief that CS education should prepare students to integrate technical expertise with the analytical, creative, and collaborative skills needed to succeed in a rapidly evolving landscape shaped by automation and AI. I put this into practice by teaching technical knowledge in ways that emphasize human-centered computing, design thinking, and collaborative learning.
+My <u>teaching and mentoring</u> is guided by the belief that CS education should prepare students to integrate technical expertise with the analytical, creative, and collaborative skills needed to succeed in a rapidly evolving landscape shaped by automation and AI. I put this into practice by designing learning experiences that emphasize human-centered design, interactive engagement, and experiential learning.
 
-Prior to joining graduate school, I was a junior research scientist for two years at [Xerox Research Center India](https://www.news.conduent.com/news/Xerox-expands-healthcare-research-at-hospitals-with-remote-sensing) where I built algorithms for monitoring a person’s breathing using webcams [(see video).](https://youtu.be/a7BPu4mUKaY) I have a B.Tech. in Electrical Engineering from the [Indian Institute of Technology Madras.](https://www.iitm.ac.in/)
+Prior to graduate school, I worked for two years as a Junior Research Scientist at the [Xerox Research Center India,](https://www.news.conduent.com/news/Xerox-expands-healthcare-research-at-hospitals-with-remote-sensing) where I developed algorithms to monitor a person’s breathing using webcams [(see video).](https://youtu.be/a7BPu4mUKaY) I hold a B.Tech. in Electrical Engineering from the [Indian Institute of Technology Madras.](https://www.iitm.ac.in/)
 
 ---
 
