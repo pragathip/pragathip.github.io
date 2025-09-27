@@ -22,7 +22,7 @@ Dissertation \| [Towards Effective Robotic Groupware](https://search.library.wis
 
 CSCW \| [Periscope: A Robotic Camera System to Support Remote Physical Collaboration](https://doi.org/10.1145/3610199)
 
-CHI LBR \| [Exploring the Use of Collaborative Robots in Cinematography](https://doi.org/10.1145/3544549.3585715)
+CHI LBW \| [Exploring the Use of Collaborative Robots in Cinematography](https://doi.org/10.1145/3544549.3585715)
 
 DIS \| [REX: Designing User-centered Repair and Explanations to Address Robot Failures](https://doi.org/10.1145/3643834.3661559)
 
