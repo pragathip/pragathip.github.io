@@ -19,6 +19,7 @@
     <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
 
     <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
+    <script src="https://kit.fontawesome.com/2ed423a75e.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
     
     {% if site.font == "Sans Serif" %}
@@ -43,9 +44,8 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }} </h1>
+        <h1>{{ site.title }} <a href="{{ site.namecoach }}" rel="noopener" style="font-size:0.5rem;"><i class="fa-regular fa-volume-high"></i></a> </h1>
 
-        <a href="{{ site.namecoach }}" rel="noopener"><i class="fa-regular fa-volume-high"></i></a>
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
         <br>
