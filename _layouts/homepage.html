@@ -43,11 +43,8 @@
         <a class="image avatar"><img src="{{ site.avatar }}" alt="avatar" /></a>
         {% endif %}
 
-        <h1>{{ site.title }}</h1>
-        {% if site.namecoach %}
-        <a href="{{ site.namecoach }}" rel="noopener"><autocolor>Hear my name</autocolor></a>
-        <br>
-        {% endif %}
+        <h1>{{ site.title }} <a href="{{ site.namecoach }}" rel="noopener"><i class="fa-regular fa-volume-high"></i></a> </h1>
+
         
         {% if site.position %}
         <position style="font-size:1.10rem;">{{ site.position }}</position>
