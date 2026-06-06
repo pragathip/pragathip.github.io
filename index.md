@@ -2,15 +2,13 @@
 layout: homepage
 ---
 
-<span style="color:red"> 🚀 I am on the job market for tenure-track faculty positions starting in Fall 2026! </span> Please reach out if you think there might be a good fit. Here is a [2-minute overview](https://youtu.be/8ADSsTXELPM) of my research.
+<span style="color:red"> 🚀 I will be starting as an Assistant Professor in Information Sciences and Technology at George Mason University in January 2027. </span>
 
 ---
 
-**I am a group-centered AI researcher.** I am currently a Postdoctoral Fellow at the [Robotics Institute, CMU](https://www.ri.cmu.edu/) where I contribute to the [NSF AI-CARING Institute.](https://www.ai-caring.org/) I have a Ph.D. in Computer Science from [UW–Madison,](https://www.cs.wisc.edu/) where I was part of the [People and Robots Lab.](https://peopleandrobots.wisc.edu/) I have been recognized as an MIT EECS Rising Star, as well as an HRI Pioneer and RSS Pioneer.
+I am a **group-centered** AI and robotics researcher. My research draws on human-computer interaction, human-robot interaction, and group dynamics to design interactive and (often) embodied AI systems for groups. Here is a [2-minute overview](https://youtu.be/8ADSsTXELPM) of my research.
 
-My <u>research vision</u> is to help architect the future of human–AI _hybrid collective intelligence_. My work pursues opportunities for robots and AI to amplify what human groups can know, do, and create. This is essential for a future where artificial agents participate meaningfully in families, teams, classrooms, and organizations. My work contributes (1) interaction paradigms that articulate new ways for robots and AI to support group interaction, (2) algorithms and prototypes that extend state-of-the-art methods in robotics and AI to _multi-user_ and _real-world_ settings, and (3) behavioral insights into how these new human–AI hybrid groups function. 
-
-My <u>teaching and mentoring</u> is guided by the belief that computing education should prepare students to integrate technical mastery with the analytical, creative, and collaborative skills necessary to shape the future of computing. I put this into practice by designing learning experiences that emphasize _active_, _social_, and _project-based_ learning. I recognize that students bring diverse backgrounds and ways of knowing; I treat these as strengths and work to create learning environments where all students can thrive. I have mentored 40+ students at the PhD, MS, and BS levels at UW–Madison and CMU.
+I am currently a Postdoctoral Fellow at the [Robotics Institute, CMU](https://www.ri.cmu.edu/) where I contribute to the [NSF AI-CARING Institute.](https://www.ai-caring.org/) I have a Ph.D. in Computer Science from [UW–Madison,](https://www.cs.wisc.edu/) where I was part of the [People and Robots Lab.](https://peopleandrobots.wisc.edu/) I have been recognized as an MIT EECS Rising Star, as well as an HRI Pioneer and RSS Pioneer.
 
 Prior to graduate school, I worked for two years as a Junior Research Scientist at the [Xerox Research Center India,](https://www.news.conduent.com/news/Xerox-expands-healthcare-research-at-hospitals-with-remote-sensing) where I developed algorithms to monitor a person’s breathing using webcams [(see video).](https://youtu.be/a7BPu4mUKaY) I hold a B.Tech. in Electrical Engineering from the [Indian Institute of Technology Madras.](https://www.iitm.ac.in/)
 
