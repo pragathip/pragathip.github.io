@@ -3,8 +3,10 @@ layout: homepage
 ---
 
 <span style="color:#b30000">
-🚀 <b>I am starting the CoSy Lab and recruiting Ph.D. students for Fall 2027!</b> If you are interested in working with me, please list me as a potential advisor when you apply to the [IST department](https://ist.gmu.edu/academics/graduate-programs/phd-information-technology) at GMU, and email me with your CV and a short note about your research interests.
+🚀 <b>I am starting the CoSy Lab and recruiting Ph.D. students for Fall 2027!</b> 
 </span>
+
+If you are interested in working with me, list me as a potential advisor when you apply to the [IST department](https://ist.gmu.edu/academics/graduate-programs/phd-information-technology) at GMU, and email me with your CV and a short note about your research interests.
 
 ---
 
