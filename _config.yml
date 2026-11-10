@@ -1,9 +1,9 @@
 # Basic Information 
 namecoach: https://www.name-coach.com/pragathi
 title: Pragathi Praveena
-position: Postdoctoral Fellow
-affiliation: Carnegie Mellon University<br>HRI • HAI • HCI in Groups
-email: pragathi@cmu.edu
+position: Assistant Professor
+affiliation: George Mason University<br>HRI • HAI • HCI in Groups
+email: ppravee@gmu.edu
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -14,10 +14,10 @@ canonical: https://pragathipraveena.com/
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?hl=en&user=1VSKpsIAAAAJ&view_op=list_works&sortby=pubdate
-cv_link: assets/files/praveena-cv.pdf
+#cv_link: assets/files/praveena-cv.pdf
 #github_link: https://github.com/
-youtube: https://www.youtube.com/@pragathipraveena426
-linkedin: https://www.linkedin.com/in/itispragathi
+#youtube: https://www.youtube.com/@pragathipraveena426
+#linkedin: https://www.linkedin.com/in/itispragathi
 #twitter: https://x.com/itispragathi
 
 # Images (e.g., your profile picture and your website's favicon) 
