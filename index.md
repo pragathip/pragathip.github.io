@@ -2,7 +2,9 @@
 layout: homepage
 ---
 
-<span style="color:red"> 🚀 **I am recruiting Ph.D. students for Fall 2027.** If you are interested in working with me, list me as a potential advisor when you apply to the Information Sciences and Technology department, and email me to introduce yourself. </span>
+<span style="color:#b30000">
+🚀 <b>I am recruiting Ph.D. students for Fall 2027.</b> If you are interested in working with me, please list me as a potential advisor when you apply to the IST department at GMU, and email me with your CV and a short note about your research interests.
+</span>
 
 ---
 
