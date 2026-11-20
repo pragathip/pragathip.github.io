@@ -10,6 +10,6 @@ If you are interested in working with me, list me as a potential advisor when yo
 
 ---
 
-I am a **group-centered** AI and robotics researcher. My research draws on human-computer interaction, human-robot interaction, and group dynamics to design interactive and (often) embodied AI systems for groups. I am especially interested in how these systems can shape the future of work.
+I am a **group-centered** AI and robotics researcher. My research draws on human-robot interaction, human-computer interaction, and group dynamics to design interactive and embodied AI systems for groups. I am especially interested in how these systems can shape the future of human work and connection.
 
 Before joining George Mason, I was a Postdoctoral Fellow at Carnegie Mellon University. I received my Ph.D. in Computer Science from the University of Wisconsin–Madison and my B.Tech. in Electrical Engineering from the Indian Institute of Technology Madras. Before graduate school, I spent two years as a Junior Research Scientist at Xerox Research Center India.
